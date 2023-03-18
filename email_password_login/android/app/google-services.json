@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819730929699",
+    "firebase_url": "https://iot-for-disabled-people-default-rtdb.firebaseio.com",
+    "project_id": "iot-for-disabled-people",
+    "storage_bucket": "iot-for-disabled-people.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819730929699:android:a91377d4496bce7b067996",
+        "android_client_info": {
+          "package_name": "com.example.email_password_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819730929699-mskn3a4tss6tsscqo9j0h873gnkp0mib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.email_password_login",
+            "certificate_hash": "1dad239fa296600ba4a016c00576520db1c59f1b"
+          }
+        },
+        {
+          "client_id": "819730929699-rsldgamotgu10hkpgn2lrhb65f2ck69k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXWw-s6cmLcP297syspRdZqOQELdaJzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819730929699-rsldgamotgu10hkpgn2lrhb65f2ck69k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
